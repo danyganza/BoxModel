@@ -1,0 +1,16 @@
+#page_header {
+    min-height: 10vh;
+   background-color: blue;
+}
+
+#page_main {
+    min-height: 80vh;
+    background-color: aquamarine;
+    padding: 10px 50px;
+}
+
+#page_footer {
+    min-height: 10vh;
+    background-color: crimson;
+
+}
