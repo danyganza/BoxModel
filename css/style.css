@@ -1,16 +1,15 @@
-#page_header {
-    min-height: 10vh;
-   background-color: blue;
+#header {
+    background-color: blue;
+    padding: 10px;
+    border: 50px dashed darkmagenta;
 }
 
-#page_main {
-    min-height: 80vh;
-    background-color: aquamarine;
-    padding: 10px 50px;
+#p_tag {
+    background-color: darkcyan;
+    padding: 50px;
 }
 
-#page_footer {
-    min-height: 10vh;
-    background-color: crimson;
-
+#i_tag {
+    background-color: darksalmon;
+    padding: 25px;
 }
